@@ -47,8 +47,8 @@ Note: The name of the remote connection is always used to establish communicatio
 
 ### RECOMMENDED PRACTICES
 
--make changes 
--git add <'file'>
--git commit
--git pull
--git push
+- make changes 
+- git add <'file'>
+- git commit
+- git pull
+- git push
