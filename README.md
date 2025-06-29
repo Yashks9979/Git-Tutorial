@@ -53,4 +53,6 @@ Note: The name of the remote connection is always used to establish communicatio
 - git pull
 - git push
 
+
 23. merge conflict can occur if multiple people try to make changes to same file and then collaborate
+
