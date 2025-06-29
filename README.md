@@ -33,7 +33,7 @@ ans: if you want to move the whole file back to the untracked state, then we do 
 
 17. 'git remote add <'name of remote'> <'link of the remote'>' -> this command helps us to add a new link to the remote repo and give a name to it 
 
-18. 'git remote rm <'name of remote'>' -> deletes a remote connection 
+18. 'git remote rm <'name of remote'>' -> deletes a remote connection.
 
 19. 'git remote rename <'oldname'> <'newname'> -> renames the remote connection
 
